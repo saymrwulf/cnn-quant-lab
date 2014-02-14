@@ -2,3 +2,4 @@
 2014-01-04T20:21:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2014-01-04T04:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2014-02-14T01:26:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
+2014-02-14T21:31:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
