@@ -4,3 +4,4 @@
 2014-02-14T01:26:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-02-14T21:31:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2014-02-14T02:57:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2014-04-25T20:54:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
