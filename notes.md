@@ -8,3 +8,4 @@
 2014-04-25T06:54:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-04-25T21:56:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-05-07T04:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2014-05-07T08:19:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
