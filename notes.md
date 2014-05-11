@@ -13,3 +13,4 @@
 2014-05-07T21:10:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2014-05-11T20:10:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-05-11T00:41:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2014-05-11T18:17:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
