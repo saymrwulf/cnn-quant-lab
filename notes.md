@@ -15,3 +15,4 @@
 2014-05-11T00:41:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2014-05-11T18:17:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-06-02T22:42:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
+2014-06-02T18:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
