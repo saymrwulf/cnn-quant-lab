@@ -17,3 +17,4 @@
 2014-06-02T22:42:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-06-02T18:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2014-06-02T08:08:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
+2014-06-02T21:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
