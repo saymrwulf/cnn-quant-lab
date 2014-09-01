@@ -23,3 +23,4 @@
 2014-06-03T21:14:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2014-08-01T00:36:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2014-08-01T19:53:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2014-09-01T22:58:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
