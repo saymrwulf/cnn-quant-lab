@@ -25,3 +25,4 @@
 2014-08-01T19:53:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2014-09-01T22:58:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2014-10-15T23:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2014-10-15T17:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
