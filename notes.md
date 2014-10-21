@@ -27,3 +27,4 @@
 2014-10-15T23:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2014-10-15T17:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2014-10-15T02:02:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2014-10-22T00:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
