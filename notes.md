@@ -38,3 +38,4 @@
 2015-01-03T06:36:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2015-01-03T02:51:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2015-01-03T03:55:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
+2015-01-03T08:38:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
