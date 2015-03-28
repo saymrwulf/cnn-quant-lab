@@ -42,3 +42,4 @@
 2015-03-04T06:35:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2015-03-04T05:20:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2015-03-04T19:57:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
+2015-03-28T08:37:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
