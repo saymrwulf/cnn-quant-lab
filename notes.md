@@ -51,3 +51,4 @@
 2015-06-08T01:52:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2015-07-11T08:10:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2015-07-11T23:54:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2015-07-11T07:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
