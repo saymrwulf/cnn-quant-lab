@@ -61,3 +61,4 @@
 2015-10-15T02:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2015-10-15T18:48:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2015-11-14T05:34:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2015-11-14T05:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
