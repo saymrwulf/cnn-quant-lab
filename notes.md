@@ -60,3 +60,4 @@
 2015-09-10T01:31:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2015-10-15T02:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2015-10-15T18:48:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
+2015-11-14T05:34:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
