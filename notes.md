@@ -67,3 +67,4 @@
 2015-11-29T21:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2015-11-29T20:45:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2015-11-29T18:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2015-11-29T03:49:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
