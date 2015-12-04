@@ -69,3 +69,4 @@
 2015-11-29T18:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2015-11-29T03:49:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2015-12-04T19:08:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2015-12-04T06:41:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
