@@ -73,3 +73,4 @@
 2015-12-04T07:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2015-12-12T20:00:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2015-12-12T07:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
+2015-12-12T07:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
