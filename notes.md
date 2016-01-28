@@ -76,3 +76,4 @@
 2015-12-12T07:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2016-01-04T02:21:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2016-01-26T18:35:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2016-01-28T08:16:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
