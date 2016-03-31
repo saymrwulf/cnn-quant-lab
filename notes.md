@@ -81,3 +81,4 @@
 2016-02-20T02:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2016-02-20T17:13:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2016-02-20T05:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2016-03-31T22:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
