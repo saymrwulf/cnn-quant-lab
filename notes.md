@@ -96,3 +96,4 @@
 2016-06-01T01:53:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2016-06-01T03:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2016-07-03T08:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2016-07-03T02:16:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
