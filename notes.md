@@ -97,3 +97,4 @@
 2016-06-01T03:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2016-07-03T08:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2016-07-03T02:16:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2016-07-08T00:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
