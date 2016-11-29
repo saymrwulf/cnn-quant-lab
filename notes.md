@@ -108,3 +108,4 @@
 2016-10-13T00:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2016-10-13T23:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2016-11-18T17:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
+2016-11-29T21:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
