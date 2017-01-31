@@ -110,3 +110,4 @@
 2016-11-18T17:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2016-11-29T21:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2017-01-31T07:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2017-01-31T05:13:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
