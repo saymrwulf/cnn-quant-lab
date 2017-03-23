@@ -113,3 +113,4 @@
 2017-01-31T05:13:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2017-03-23T19:59:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-03-23T22:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2017-03-23T08:18:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
