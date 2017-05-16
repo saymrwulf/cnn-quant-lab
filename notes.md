@@ -116,3 +116,4 @@
 2017-03-23T08:18:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-04-10T08:47:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2017-04-10T04:33:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
+2017-05-16T19:36:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
