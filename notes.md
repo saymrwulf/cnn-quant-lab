@@ -118,3 +118,4 @@
 2017-04-10T04:33:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2017-05-16T19:36:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-05-16T20:15:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2017-06-18T00:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
