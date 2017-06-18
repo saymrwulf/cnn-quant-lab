@@ -120,3 +120,4 @@
 2017-05-16T20:15:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-06-18T00:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2017-06-18T20:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2017-06-18T19:20:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
