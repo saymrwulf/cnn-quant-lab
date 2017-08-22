@@ -129,3 +129,4 @@
 2017-07-04T06:42:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-08-20T08:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2017-08-20T20:51:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2017-08-22T22:02:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
