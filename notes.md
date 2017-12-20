@@ -132,3 +132,4 @@
 2017-08-22T22:02:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2017-12-07T00:36:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2017-12-07T19:04:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2017-12-20T21:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
