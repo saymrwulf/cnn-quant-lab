@@ -134,3 +134,4 @@
 2017-12-07T19:04:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2017-12-20T21:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2017-12-20T03:16:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2018-03-05T19:12:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
