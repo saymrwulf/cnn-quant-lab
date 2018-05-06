@@ -137,3 +137,4 @@
 2018-03-05T19:12:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2018-03-15T22:21:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2018-05-03T02:05:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2018-05-06T07:22:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
