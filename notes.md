@@ -143,3 +143,4 @@
 2018-05-06T02:03:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2018-05-25T21:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2018-05-25T20:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
+2018-05-25T05:23:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
