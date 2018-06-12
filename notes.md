@@ -148,3 +148,4 @@
 2018-06-08T03:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2018-06-08T00:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2018-06-12T19:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2018-06-12T21:52:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
