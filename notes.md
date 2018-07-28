@@ -151,3 +151,4 @@
 2018-06-12T21:52:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2018-06-12T07:31:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2018-06-12T21:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2018-07-28T22:03:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
