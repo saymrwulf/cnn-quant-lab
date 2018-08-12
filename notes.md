@@ -153,3 +153,4 @@
 2018-06-12T21:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2018-07-28T22:03:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2018-08-13T07:08:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2018-08-13T00:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
