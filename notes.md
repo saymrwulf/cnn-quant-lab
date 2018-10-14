@@ -159,3 +159,4 @@
 2018-08-18T00:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2018-10-14T07:19:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2018-10-14T23:26:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2018-10-14T19:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
