@@ -171,3 +171,4 @@
 2018-11-10T22:23:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2018-11-10T21:17:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2018-11-13T05:28:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2018-11-13T01:37:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
