@@ -176,3 +176,4 @@
 2018-11-17T17:46:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2018-11-24T02:30:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2019-01-11T03:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2019-03-29T07:30:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
