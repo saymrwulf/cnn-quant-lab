@@ -178,3 +178,4 @@
 2019-01-11T03:15:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2019-03-29T07:30:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2019-03-29T01:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2019-03-29T21:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
