@@ -184,3 +184,4 @@
 2019-05-05T08:30:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2019-05-05T22:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2019-05-05T20:35:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
+2019-05-05T23:47:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
