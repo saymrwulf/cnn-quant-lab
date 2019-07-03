@@ -188,3 +188,4 @@
 2019-05-15T04:47:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2019-05-15T00:36:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2019-06-20T21:36:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2019-07-03T19:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
