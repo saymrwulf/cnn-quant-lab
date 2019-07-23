@@ -191,3 +191,4 @@
 2019-07-03T19:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2019-07-23T08:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2019-07-23T18:33:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2019-07-23T04:48:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
