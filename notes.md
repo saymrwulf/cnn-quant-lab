@@ -193,3 +193,4 @@
 2019-07-23T18:33:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2019-07-23T04:48:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2019-07-23T23:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2019-09-29T05:17:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
