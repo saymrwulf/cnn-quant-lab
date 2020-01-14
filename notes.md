@@ -199,3 +199,4 @@
 2019-10-10T21:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2020-01-05T06:22:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2020-01-05T18:21:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2020-01-14T20:11:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
