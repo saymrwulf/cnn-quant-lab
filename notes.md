@@ -212,3 +212,4 @@
 2020-02-09T21:31:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2020-02-09T20:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2020-03-20T02:41:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2020-03-20T19:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
