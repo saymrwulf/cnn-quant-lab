@@ -219,3 +219,4 @@
 2020-05-15T07:25:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2020-05-15T06:34:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2020-05-27T02:12:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2020-05-27T17:04:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
