@@ -226,3 +226,4 @@
 2020-08-07T08:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2020-08-07T08:18:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2020-10-02T19:32:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2020-10-02T02:03:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
