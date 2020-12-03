@@ -228,3 +228,4 @@
 2020-10-02T19:32:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2020-10-02T02:03:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2020-10-02T21:02:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2020-12-03T22:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
