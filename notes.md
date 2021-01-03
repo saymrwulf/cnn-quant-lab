@@ -232,3 +232,4 @@
 2020-12-03T00:23:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2020-12-03T22:27:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2020-12-03T06:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2021-01-03T17:27:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
