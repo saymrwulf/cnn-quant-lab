@@ -238,3 +238,4 @@
 2021-02-10T00:57:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2021-02-10T08:34:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2021-03-05T21:48:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
+2021-04-02T06:53:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
