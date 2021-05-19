@@ -244,3 +244,4 @@
 2021-05-10T23:10:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2021-05-19T08:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2021-05-19T17:24:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2021-05-19T06:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
