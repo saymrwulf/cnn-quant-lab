@@ -254,3 +254,4 @@
 2021-08-16T21:05:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2021-08-16T18:02:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2021-08-16T00:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2021-08-25T04:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
