@@ -257,3 +257,4 @@
 2021-08-25T04:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2021-08-25T02:22:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2021-08-31T01:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
+2021-08-31T21:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
