@@ -259,3 +259,4 @@
 2021-08-31T01:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2021-08-31T21:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2021-08-31T05:48:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
+2021-09-22T00:47:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
