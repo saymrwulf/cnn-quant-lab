@@ -264,3 +264,4 @@
 2021-09-22T17:48:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2021-09-30T17:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2021-10-14T18:02:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2021-10-14T19:47:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
