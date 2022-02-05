@@ -270,3 +270,4 @@
 2022-02-05T00:06:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2022-02-05T03:32:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2022-02-05T03:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2022-02-05T20:59:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
