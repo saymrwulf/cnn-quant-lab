@@ -278,3 +278,4 @@
 2022-05-12T00:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2022-05-12T05:06:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
 2022-05-12T18:20:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2022-05-14T03:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
