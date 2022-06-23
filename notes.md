@@ -280,3 +280,4 @@
 2022-05-12T18:20:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2022-05-14T03:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2022-05-14T06:19:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2022-06-23T08:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
