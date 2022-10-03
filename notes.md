@@ -289,3 +289,4 @@
 2022-09-01T05:59:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2022-09-01T00:25:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2022-09-01T08:27:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2022-10-03T06:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
