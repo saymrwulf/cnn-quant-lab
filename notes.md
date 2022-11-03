@@ -292,3 +292,4 @@
 2022-10-03T06:26:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2022-10-03T20:02:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2022-11-04T19:31:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2022-11-04T00:50:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
