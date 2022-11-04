@@ -293,3 +293,4 @@
 2022-10-03T20:02:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2022-11-04T19:31:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2022-11-04T00:50:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
+2022-11-04T04:50:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
