@@ -295,3 +295,4 @@
 2022-11-04T00:50:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2022-11-04T04:50:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2022-11-14T20:39:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2022-11-14T23:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
