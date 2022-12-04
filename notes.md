@@ -300,3 +300,4 @@
 2022-12-01T04:36:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2022-12-04T20:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2022-12-04T02:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2022-12-04T02:55:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
