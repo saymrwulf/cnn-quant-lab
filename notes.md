@@ -299,3 +299,4 @@
 2022-11-25T07:50:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2022-12-01T04:36:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2022-12-04T20:14:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2022-12-04T02:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
