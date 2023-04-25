@@ -306,3 +306,4 @@
 2023-04-07T01:28:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2023-04-07T23:28:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2023-04-07T05:38:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2023-04-25T03:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
