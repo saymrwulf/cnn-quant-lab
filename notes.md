@@ -315,3 +315,4 @@
 2023-09-21T19:43:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2023-11-15T17:35:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2023-11-15T02:36:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2023-11-15T06:35:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
