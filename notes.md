@@ -320,3 +320,4 @@
 2023-12-17T05:52:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2023-12-17T01:01:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2023-12-17T03:52:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2023-12-22T18:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
