@@ -326,3 +326,4 @@
 2024-01-10T07:23:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2024-01-10T02:15:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
 2024-01-10T07:08:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
+2024-01-10T20:41:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
