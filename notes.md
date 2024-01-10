@@ -323,3 +323,4 @@
 2023-12-22T18:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
 2023-12-22T22:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
 2023-12-22T03:15:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
+2024-01-10T07:23:00 - Implementing approach from a new paper read last night (cnn-quant-lab)
