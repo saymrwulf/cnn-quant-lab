@@ -330,3 +330,4 @@
 2024-02-15T06:23:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2024-02-15T20:40:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2024-02-15T04:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
+2024-03-02T00:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cnn-quant-lab)
