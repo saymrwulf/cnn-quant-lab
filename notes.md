@@ -350,3 +350,4 @@
 2024-03-31T02:28:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
 2024-04-27T17:26:00 - Minor doc updates: linking to article on quantization (cnn-quant-lab)
 2024-04-27T19:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cnn-quant-lab)
+2024-05-29T22:48:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
