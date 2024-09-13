@@ -353,3 +353,4 @@
 2024-05-29T22:48:00 - Refactor for clarity, might break a few tests though (cnn-quant-lab)
 2024-08-15T04:06:00 - Quick fix, referencing a known issue from the official repo (cnn-quant-lab)
 2024-08-15T06:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cnn-quant-lab)
+2024-09-13T23:14:00 - Late-night bugfix on financial RL environment (cnn-quant-lab)
